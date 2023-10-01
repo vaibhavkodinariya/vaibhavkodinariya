@@ -6,7 +6,7 @@
         -🌱 I’m currently learning MERN Stack
     </ul>
     <ul>
-        - 💬 Ask me about React ,Kotlin ,Nodejs , PHP
+        - 💬 Ask me about MERN STACK,Kotlin , PHP
     </ul>
     <ul>
         - 📫 How to reach me vaibhavkodinariya312@gmail.com
