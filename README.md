@@ -29,7 +29,7 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" alt="android" width="80" height="80" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android" width="140" height="140" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="80" height="80" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/331488/mongodb.svg" alt="mongodb" width="80" height="80" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="150" height="80" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
