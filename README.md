@@ -14,7 +14,6 @@
 
 <div align="center">
  🌱 Currently learning NextJs, Typescript, Flutter.<br/>
- 💼 WebCodeGenie/Software Developer.<br/>
  💬 Ask me about Kotlin, MERN Stack, PHP.<br/>
 </div>
 
