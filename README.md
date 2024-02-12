@@ -1,40 +1,54 @@
-# Hi there! 👋 I'm Kodinariya Vaibhav
+<div align="right">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavkodinariya&color=blue)
 
-I'm a passionate Developer from Ahemdabad. Welcome to my GitHub profile!
+</div>
 
-## About Me
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kodinariya+Vaibhav!;" />
+</h1>
 
-- 🌱 Currently learning NextJs, Typescript, Flutter.
-- 💼 WebCodeGenie/Software Developer.
-- 💬 Ask me about Kotlin, MERN Stack, PHP.
-- 📫 How to reach me:
-  - Email: vaibhavkodinariya312@gmail.com
-  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavkodinariya)
+<h3 align="center">A passionate Software Developer from Ahemdabad,India</h3>
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavkodinariya&color=blue)
+<br/>
 
-## Tools and Technologies
+<div align="center">
+ 🌱 Currently learning NextJs, Typescript, Flutter.<br/>
+ 💼 WebCodeGenie/Software Developer.<br/>
+ 💬 Ask me about Kotlin, MERN Stack, PHP.<br/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" height="30">
-  <img src="https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite.js" height="30">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" height="30">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="30">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="30">
-  <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=express&logoColor=black" alt="Express.js" height="30">
-  <img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logo=next.js&logoColor=black" alt="Next.js" height="30">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30">
-</p>
+<br/>
+<div align="center"> 
+  <a href="vaibhavkodinariya312@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhavkodinariya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## GitHub Stats
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql,react,expressjs,kotlin,php,vite,postman" /><br>
+</div>
 
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavkodinariya&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+<br/>
+<hr/>
 
-## Technology Usage
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align=center>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=vaibhavkodinariya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkodinariya&layout=compact&hide=html,css&theme=dark)
+<br/><br/>
+<hr/>
+<h2 align="center">⚡ Technology Usage ⚡</h2>
+<div align="center">
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vaibhavkodinariya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
