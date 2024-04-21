@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
- 💼 At WebCodeGenie Pvt Ltd
+ 💼 At WebCodeGenie Pvt Ltd.<br/>
  🌱 Currently learning NextJs, Typescript, Flutter.<br/>
  💬 Ask me about Kotlin, MERN Stack, PHP.<br/>
 </div>
